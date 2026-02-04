@@ -2,7 +2,7 @@
 
 ## Execution steps:
 
-After downloading the files present in this repository and navigating to the folder in your terminal, start the application by running
+After downloading the files present in this repository (excluding those in the images folder) and navigating to the folder in your terminal, start the application by running
 
 > docker compose up --build.
 
