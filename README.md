@@ -15,18 +15,18 @@ Through this handson, I learned the basics of using Docker to deploy a Python Fl
 ## Screenshots
 #### Screenshots of the Docker desktop app showing the containers:
 
-![screenshot of docker desktop app 1](/docker_1.png)
+![screenshot of docker desktop app 1](/images/docker_1.png)
 
-![screenshot of docker desktop app 2](/docker_2.png)
+![screenshot of docker desktop app 2](/images/docker_2.png)
 
 #### Output obtained after running the handson: 
 
 First time: 
 
-![screenshot of handson output 1](/handson_output_1.png)
+![screenshot of handson output 1](/images/handson_output_1.png)
 
 Second time: 
 
-![screenshot of handson output 2](/handson_output_2.png)
+![screenshot of handson output 2](/images/handson_output_2.png)
 
 
