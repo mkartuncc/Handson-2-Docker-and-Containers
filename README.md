@@ -13,5 +13,20 @@ The application will be available at http://localhost:8000.
 Through this handson, I learned the basics of using Docker to deploy a Python Flask web application with a Redis cache and to run a PostgreSQL database. I also learned how to debug and troubleshoot code using the command line and interpret the error messages provided by Docker. I learned the different files required to run in Docker beyond the app itself and how the files interact and depend on each other. Finally, I grew more familiar with how containerization appears in the Docker desktop app   
 
 ## Screenshots
-Screenshots of the Docker desktop app showing the containers and the output obtained after the handson can be found in the Document with screenshots pdf file 
+#### Screenshots of the Docker desktop app showing the containers:
+
+![screenshot of docker desktop app 1](/docker_1.png)
+
+![screenshot of docker desktop app 2](/docker_2.png)
+
+#### Output obtained after running the handson: 
+
+First time: 
+
+![screenshot of handson output 1](/handson_output_1.png)
+
+Second time: 
+
+![screenshot of handson output 2](/handson_output_2.png)
+
 
